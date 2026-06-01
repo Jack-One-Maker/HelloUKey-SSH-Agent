@@ -1,2 +1,31 @@
 # HelloUKey - Windows Hello 安全密钥 & SSH 免密登录工具
 使用 TPM 和 Windows Hello 保护 SSH 密钥，通过指纹、人脸识别或PIN码实现安全的 SSH 登录认证
+
+## 摘要
+一款 Windows 原生 SSH 安全认证应用，基于电脑自带的 TPM 芯片和 Windows Hello 保护 SSH 私钥不受攻击和窃取。应用生成可直接使用的 Windows Hello 密钥以实现通过指纹或人脸识别来实现 SSH 免密安全认证。
+
+## 功能及特性
+🔐 快速创建与生成受硬件保护的 SSH 安全密钥，排除 SSH 私钥在硬盘上存放时被盗取的风险；<br>
+
+🔐 使用 Windows Hello 生物特征识别免密登录 SSH Server;<br>
+
+🔐 私钥完全从硬件生成且永远无法导出，不接受导入外部密钥（外部密钥无法保证安全性）；<br>
+
+🔐 适用于运维、开发人员、网络工程师等人员的提效安全利器；<br>
+
+🔐 适配 OpenSSH、Git、WinSCP、PuTTY、SecureCRT、MobaXterm等的安全认证<br>
+
+🔐 支持 Win11 效能模式，最小化运行时以低功耗、低优先级进程模式运行，平板使用更节能；<br>
+
+🔐 支持设置开机自动启动；<br>
+
+🔐 单机应用，不上传或同步任何数据，全面保障隐私；<br>
+
+🔐 原生 WinUI 应用，非网页包装，运行更节省资源；<br>
+
+🔐 Microsoft Store 打包应用，经微软签名认证的安全应用；<br>
+
+🔐 仅十几 MB 的小尺寸安装包，节省硬盘空间；<br>
+
+## 操作系统
+💽 Windows 10 1903（内部版本18362.0）及更高版本
