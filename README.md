@@ -4,6 +4,9 @@
 ## 摘要
 一款 Windows 原生 SSH 安全认证应用，基于电脑自带的 TPM 芯片和 Windows Hello 保护 SSH 私钥不受攻击和窃取。应用生成可直接使用的 Windows Hello 密钥以实现通过指纹或人脸识别来实现 SSH 免密安全认证。
 
+## 应用截图
+![图片描述]([https://example.com](https://store-images.s-microsoft.com/image/apps.27420.13912981154273113.82a12b87-2a83-4e8f-907f-b3bc680f02b6.cfa3c166-85d1-44dd-878d-ebc447c3debe))
+
 ## 功能及特性
 🔐 快速创建与生成受硬件保护的 SSH 安全密钥，排除 SSH 私钥在硬盘上存放时被盗取的风险；<br>
 
