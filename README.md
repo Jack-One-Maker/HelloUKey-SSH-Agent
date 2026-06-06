@@ -11,6 +11,11 @@
 ## Abstract
 A native Windows SSH security authentication app that leverages the computer’s built-in TPM chip and Windows Hello to protect SSH private keys from attacks and theft. The app generates ready-to-use Windows Hello keys to enable password-free SSH authentication via fingerprint or facial recognition.
 
+## Download
+<a href="https://apps.microsoft.com/detail/9n0wbprdgf78?referrer=appbadge&cid=GitHubEN&mode=full" target="_blank"  rel="noopener noreferrer">
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
+
 ## Screenshots
 ![image0](https://store-images.s-microsoft.com/image/apps.8377.13912981154273113.82a12b87-2a83-4e8f-907f-b3bc680f02b6.c8aa1c3d-ae7c-4537-88ee-4c64834d24ba)
 
@@ -39,10 +44,9 @@ A native Windows SSH security authentication app that leverages the computer’s
 
 🔐 A small installation package of just a few dozen MB, saving hard drive space. <br>
 
-## Download
-<a href="https://apps.microsoft.com/detail/9n0wbprdgf78?referrer=appbadge&cid=GitHubEN&mode=full" target="_blank"  rel="noopener noreferrer">
-	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
-</a>
 
 ## Operating System
 💽 Windows 10 version 1903 (18362.0) and later
+
+## Documents
+**[Related Documents](./docs/README.md)**
