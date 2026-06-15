@@ -9,7 +9,7 @@
 <p align="center">Protect your SSH keys using TPM and Windows Hello to enable secure SSH login authentication via fingerprint, facial recognition, or PIN.</p>
 
 ## Abstract
-A native Windows SSH security authentication app that leverages the computer’s built-in TPM chip and Windows Hello to protect SSH private keys from attacks and theft. The app generates ready-to-use Windows Hello keys to enable password-free SSH authentication via fingerprint or facial recognition.
+A modern SSH agent and authenticator that uses TPM combined with Windows Hello to generate hardware-isolated SSH keys. With just a quick Windows Hello fingerprint or facial recognition scan, you can complete secure SSH authentication instantly. No more worrying about private keys being stolen from your hard drive—enjoy a seamless, rock-solid, and passwordless hardware authentication experience.
 
 ## Download
 <a href="https://apps.microsoft.com/detail/9n0wbprdgf78?referrer=appbadge&cid=GitHubEN&mode=full" target="_blank"  rel="noopener noreferrer">
