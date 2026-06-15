@@ -6,10 +6,10 @@
 </p>
 
 <h1 align="center">HelloUKey - SSH Agent & 硬件密钥保险箱</h1>
-<p align="center">使用 TPM 和 Windows Hello 保护 SSH 密钥，通过指纹、人脸识别或PIN码实现安全的 SSH 登录认证</p>
+<p align="center">一款基于 TPM 硬件保护的 SSH 密钥保险箱，同时支持使用 Windows Hello 指纹或人脸实现 SSH 免密认证。</p>
 
 ## 摘要
-一款 Windows 原生 SSH 安全认证应用，基于电脑自带的 TPM 芯片和 Windows Hello 保护 SSH 私钥不受攻击和窃取。应用生成可直接使用的 Windows Hello 密钥以实现通过指纹或人脸识别来实现 SSH 免密安全认证。
+这是一款现代化的 SSH代理（SSH Agent）和认证器，应用使用 TPM 结合 Windows Hello 生成硬件隔离的 SSH 密钥，您只需通过 Windows Hello 指纹或人脸识别，即可快速完成 SSH 安全认证。无需再担心私钥在硬盘中被窃取，带给您高效、坚固的硬件免密认证体验。
 
 ## 下载链接
 <a href="https://apps.microsoft.com/detail/9n0wbprdgf78?referrer=appbadge&cid=GitHub&mode=full" target="_blank"  rel="noopener noreferrer">
