@@ -1,4 +1,4 @@
-# 🚀 HelloUKey - SSH Authenticator
+# 🚀 HelloUKey - SSH Agent & Key Vault
 
 
 ## Table of Contents
