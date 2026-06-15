@@ -76,7 +76,7 @@ A: You can certainly use the same private key to manage login authentication for
 
 
 - Q: Is the app suitable for SSH authentication with Git code repositories? <br>
-A: It’s ideal. Git uses the OpenSSH ssh tool on Windows, which supports direct interaction with proxies to complete authentication. **[Generating GitHub Authentication Keys with HelloUKey](./docs/github-config.md)**<br>
+A: It’s ideal. Git uses the OpenSSH ssh tool on Windows, which supports direct interaction with proxies to complete authentication. **[Generating GitHub Keys with HelloUKey](./docs/github-config.md)**<br>
 
 
 - Q: Which SSH servers does the application support for authentication?<br>
