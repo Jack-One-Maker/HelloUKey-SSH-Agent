@@ -1,6 +1,6 @@
 # How do I use HelloUKey to generate a key for GitHub?
 
-### 1. First, launch **[HelloUKey - SSH Authenticator](https://apps.microsoft.com/detail/9n0wbprdgf78?referrer=appbadge&cid=github-config&mode=full)** and go to the key management page:
+### 1. First, launch **[HelloUKey - SSH Agent & Key Vault](https://apps.microsoft.com/detail/9n0wbprdgf78?referrer=appbadge&cid=github-config&mode=full)** and go to the key management page:
 ![main](../docs/assets/main.png)
    
 ### 2. Click "Create Key" to open the key creation window, and fill in the configuration as shown in the figure: 
