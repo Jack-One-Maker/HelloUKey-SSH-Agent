@@ -17,9 +17,9 @@ A modern SSH agent and authenticator that uses TPM combined with Windows Hello t
 </a>
 
 ## Screenshots
-![image0](https://store-images.s-microsoft.com/image/apps.8377.13912981154273113.82a12b87-2a83-4e8f-907f-b3bc680f02b6.c8aa1c3d-ae7c-4537-88ee-4c64834d24ba)
+![image0](https://store-images.s-microsoft.com/image/apps.30926.13912981154273113.1681eb60-bc31-4741-b35c-90ada5613344.91a07266-fec1-4d08-9e71-0dec7c26d26c)
 
-![image1](https://store-images.s-microsoft.com/image/apps.33150.13912981154273113.82a12b87-2a83-4e8f-907f-b3bc680f02b6.9f673b1c-850e-4399-9495-e7aeb9e0f6eb)
+![image1](https://store-images.s-microsoft.com/image/apps.56520.13912981154273113.1681eb60-bc31-4741-b35c-90ada5613344.0b723afa-f6cf-4b43-90f0-e407f95694d0)
 
 ## Features and Specifications
 🔐 Quickly create and generate hardware-protected SSH security keys, eliminating the risk of SSH private keys being stolen when stored on a hard drive. <br>
