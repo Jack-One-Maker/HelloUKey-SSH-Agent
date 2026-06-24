@@ -17,9 +17,9 @@
 </a>
 
 ## 应用截图
-![图片描述](https://store-images.s-microsoft.com/image/apps.27420.13912981154273113.82a12b87-2a83-4e8f-907f-b3bc680f02b6.cfa3c166-85d1-44dd-878d-ebc447c3debe)
+![图片描述](https://store-images.s-microsoft.com/image/apps.25233.13912981154273113.1681eb60-bc31-4741-b35c-90ada5613344.40b8fffc-e908-420c-97a5-01dae599b3c4)
 
-![图片描述](https://store-images.s-microsoft.com/image/apps.64475.13912981154273113.82a12b87-2a83-4e8f-907f-b3bc680f02b6.a14a7ddd-d147-4d2d-9917-2b429eaa72c3)
+![图片描述](https://store-images.s-microsoft.com/image/apps.2960.13912981154273113.1681eb60-bc31-4741-b35c-90ada5613344.f5be7e93-2138-4da3-9b2d-adaab7c82963)
 
 ## 功能及特性
 🔐 快速创建与生成受硬件保护的 SSH 安全密钥，排除 SSH 私钥在硬盘上存放时被盗取的风险；<br>
