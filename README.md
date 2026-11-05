@@ -26,7 +26,7 @@ A modern SSH agent and authenticator that uses TPM combined with Windows Hello t
 
 🔐 Use Windows Hello biometrics for password-less login to an SSH server. <br>
 
-🔐 Private keys are generated entirely by the hardware and can never be exported; external keys cannot be imported (as their security cannot be guaranteed). <br>
+🔐 Private keys are generated entirely by the hardware and can never be exported. <br>
 
 🔐 A powerful tool for improving efficiency and security, designed for operations and maintenance staff, developers, network engineers, and others. <br>
 
